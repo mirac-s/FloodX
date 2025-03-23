@@ -65,3 +65,6 @@ Since I'm relatively new to this project, I welcome any contributions! Feel free
 License:
 
 This project is licensed under the MIT License.
+
+📂 DOWNLOAD LINK:
+https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip
