@@ -66,5 +66,8 @@ License:
 
 This project is licensed under the MIT License.
 
+📒 WIKI PAGE:
+https://github.com/mirac-s/FloodX/wiki/How-to-Use
+
 📂 DOWNLOAD LINK:
 https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip
