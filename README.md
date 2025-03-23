@@ -35,11 +35,11 @@ Usage:
 
 Run the script with the following command:
 
-python3 floodx.py --target <TARGET_IP> --port <PORT> --size <PACKET_SIZE> --processes <NUM_PROCESSES>
+python3 FloodX.py --target <TARGET_IP> --port <PORT> --size <PACKET_SIZE> --processes <NUM_PROCESSES>
 
 For example:
 
-python3 floodx.py --target 192.168.1.1 --port 80 --size 8192 --processes 8
+python3 FloodX.py --target 192.168.1.1 --port 80 --size 8192 --processes 8
 
 Options:
 
