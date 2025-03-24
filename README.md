@@ -35,23 +35,23 @@ Install dependencies (if any):
 
 Run the script with the following command:
 
-`python3 floodx.py --target <TARGET_IP> --port <PORT> --size <PACKET_SIZE> --processes <NUM_PROCESSES>`
+`python3 floodx.py <Target> -p <Port> -s <Package Size> -c <CPU Power/Default:20>
 
 **For example:**
 
-`python3 floodx.py --target 192.168.1.1 --port 80 --size 8192 --processes 8`
+`python3 floodx.py 192.168.1.1 -p 80 -s 8192 -c 20`
 
 **Options:**
 
 `--help` : Display help information.
 
-`--target` : Target IP address or domain.
+`-p` : Target port (default: 80).
 
-`--port` : Target port (default: 80).
+`-s` : Packet size (default: 8192 bytes).
 
-`--size` : Packet size (default: 8192 bytes).
+`-b` : Broadcast
 
-`--processes` : Number of processes to run (default: CPU count * 20).
+`-c` : Number of processes to run (default: CPU count * 20).
 
 
 **Disclaimer:**
