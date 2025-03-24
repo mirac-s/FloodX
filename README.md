@@ -71,5 +71,5 @@ https://github.com/mirac-s/FloodX/wiki/How-to-Use**
 
 📂 **DOWNLOAD LINK:
 https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip**
-💬 **DİSCORD SERVER:
+**DİSCORD SERVER:
 https://discord.gg/4kxFT9dJ**
