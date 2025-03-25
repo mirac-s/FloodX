@@ -71,5 +71,6 @@ https://github.com/mirac-s/FloodX/wiki/How-to-Use**
 
 📂 **DOWNLOAD LINK:
 https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip**
-**DİSCORD SERVER:
-https://discord.gg/4kxFT9dJ**
+
+✅ **PYTHON DOWNLOAD:
+https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe**
