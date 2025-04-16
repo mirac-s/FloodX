@@ -74,25 +74,3 @@ https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip**
 
 ✅ **PYTHON DOWNLOAD:
 https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe**
-
-*TL DOWNLOAD*
-DOWNLOAD LINK 1:
-https://tlauncher.org/jdk64-deb-linux-17
-
-LINK 2:
-https://tlauncher.org/jdk64-win-17
-
-LINK 3:
-https://tlauncher.org/jar-linux
-
-LINK 4:
-https://tlauncher.org/jar64-u51-win
-
-LINK 5:
-https://javadl.sun.com/webapps/download/AutoDL?BundleId=108138
-
-LINK 6:
-https://tlauncher.org/jar-u51-win
-
-PYTHON:
-https://www.python.org/ftp/python/3.13.3/python-3.13.3-arm64.exe
