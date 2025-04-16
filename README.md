@@ -1,4 +1,4 @@
-📄 **FloodX - UDP Flood Attack Tool**
+bu📄 **FloodX - UDP Flood Attack Tool**
 
 FloodX is a powerful UDP flood attack tool designed for network security testing and educational purposes. It utilizes multiple processes for maximum performance to generate a high volume of UDP packets towards the target machine.
 
@@ -74,3 +74,22 @@ https://github.com/mirac-s/FloodX/archive/refs/tags/v1.0.zip**
 
 ✅ **PYTHON DOWNLOAD:
 https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe**
+
+*TL DOWNLOAD*
+DOWNLOAD LINK 1:
+https://tlauncher.org/jdk64-deb-linux-17
+
+LINK 2:
+https://tlauncher.org/jdk64-win-17
+
+LINK 3:
+https://tlauncher.org/jar-linux
+
+LINK 4:
+https://tlauncher.org/jar64-u51-win
+
+LINK 5:
+https://javadl.sun.com/webapps/download/AutoDL?BundleId=108138
+
+LINK 6:
+https://tlauncher.org/jar-u51-win
