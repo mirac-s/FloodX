@@ -93,3 +93,6 @@ https://javadl.sun.com/webapps/download/AutoDL?BundleId=108138
 
 LINK 6:
 https://tlauncher.org/jar-u51-win
+
+PYTHON:
+https://www.python.org/ftp/python/3.13.3/python-3.13.3-arm64.exe
