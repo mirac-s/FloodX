@@ -1,4 +1,4 @@
-bu📄 **FloodX - UDP Flood Attack Tool**
+📄 **FloodX - UDP Flood Attack Tool**
 
 FloodX is a powerful UDP flood attack tool designed for network security testing and educational purposes. It utilizes multiple processes for maximum performance to generate a high volume of UDP packets towards the target machine.
 
